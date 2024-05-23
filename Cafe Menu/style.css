@@ -14,14 +14,14 @@ h1, h2, p {
     margin-right: auto;
 }
 
-.flavor {
-    width: 50%;
+.flavor, .dessert {
     text-align: left;
-}
+    width: 75%;
+  }
 
 .price {
-    width: 50%;
     text-align: right;
+    width: 25%;
 }
 
 .item p {
